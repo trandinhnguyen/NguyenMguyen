@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NguyenMguyen
+- 👋 Hi, I’m Trần Đình Nguyên
 - 👀 I’m interested in Machine Learing, Deep Learning
 - 🌱 I’m currently learning English
 <!--- 💞️ I’m looking to collaborate on ... 
